@@ -12,7 +12,7 @@ public class Mail {
 	private String content;
 	
 	public Mail() {
-		this.from = "razor2299343@gmail.com";
+		this.from = "@gmail.com";
 	}
 	
 	
