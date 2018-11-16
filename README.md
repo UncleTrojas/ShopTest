@@ -1,3 +1,3 @@
 # ShopTest
 
-My test version of site
+My test version of Online Shop
